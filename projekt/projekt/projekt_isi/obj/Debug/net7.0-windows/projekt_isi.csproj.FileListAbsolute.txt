@@ -1,0 +1,182 @@
+C:\Users\Emilia\source\repos\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.exe
+C:\Users\Emilia\source\repos\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.deps.json
+C:\Users\Emilia\source\repos\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.runtimeconfig.json
+C:\Users\Emilia\source\repos\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.dll
+C:\Users\Emilia\source\repos\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.pdb
+C:\Users\Emilia\source\repos\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.csproj.AssemblyReference.cache
+C:\Users\Emilia\source\repos\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.Form1.resources
+C:\Users\Emilia\source\repos\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.csproj.GenerateResource.cache
+C:\Users\Emilia\source\repos\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emilia\source\repos\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.AssemblyInfoInputs.cache
+C:\Users\Emilia\source\repos\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.AssemblyInfo.cs
+C:\Users\Emilia\source\repos\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.csproj.CoreCompileInputs.cache
+C:\Users\Emilia\source\repos\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.dll
+C:\Users\Emilia\source\repos\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\refint\projekt_isi.dll
+C:\Users\Emilia\source\repos\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.pdb
+C:\Users\Emilia\source\repos\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.genruntimeconfig.cache
+C:\Users\Emilia\source\repos\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\ref\projekt_isi.dll
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.csproj.AssemblyReference.cache
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.Form1.resources
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.csproj.GenerateResource.cache
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.AssemblyInfoInputs.cache
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.AssemblyInfo.cs
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.csproj.CoreCompileInputs.cache
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.dll
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\refint\projekt_isi.dll
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.pdb
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.exe
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.deps.json
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.runtimeconfig.json
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.dll
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.pdb
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\Google.Protobuf.dll
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\MySql.Data.dll
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\ZstdNet.dll
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\comerr64.dll
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\gssapi64.dll
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\k5sprt64.dll
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\krb5_64.dll
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\krbcc64.dll
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\SpotifyAPI.Web.dll
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.csproj.CopyComplete
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.genruntimeconfig.cache
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\ref\projekt_isi.dll
+C:\Users\Sm\Desktop\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.Show.resources
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.exe
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.deps.json
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.runtimeconfig.json
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.dll
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.pdb
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\Google.Protobuf.dll
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\MySql.Data.dll
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\ZstdNet.dll
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\comerr64.dll
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\gssapi64.dll
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\k5sprt64.dll
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\krb5_64.dll
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\krbcc64.dll
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\SpotifyAPI.Web.dll
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.csproj.AssemblyReference.cache
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.Form1.resources
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.Show.resources
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.csproj.GenerateResource.cache
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.csproj.CopyComplete
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.dll
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\refint\projekt_isi.dll
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.pdb
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.genruntimeconfig.cache
+C:\Users\Szymon\Desktop\Proj_ISI\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\ref\projekt_isi.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.exe
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.deps.json
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.runtimeconfig.json
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.pdb
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\Google.Protobuf.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\K4os.Compression.LZ4.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\K4os.Hash.xxHash.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\MySql.Data.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\ZstdNet.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\comerr64.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\gssapi64.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\k5sprt64.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\krb5_64.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\krbcc64.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\bin\Debug\net7.0-windows\SpotifyAPI.Web.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.csproj.AssemblyReference.cache
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.Form1.resources
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.Show.resources
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.csproj.GenerateResource.cache
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.AssemblyInfoInputs.cache
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.AssemblyInfo.cs
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.csproj.CoreCompileInputs.cache
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.csproj.CopyComplete
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\refint\projekt_isi.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.pdb
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.genruntimeconfig.cache
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\Proj_ISI-2\Proj_ISI\projekt_isi\projekt_isi\obj\Debug\net7.0-windows\ref\projekt_isi.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.csproj.AssemblyReference.cache
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.Form1.resources
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.Show.resources
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.csproj.GenerateResource.cache
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.AssemblyInfoInputs.cache
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.AssemblyInfo.cs
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.csproj.CoreCompileInputs.cache
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\obj\Debug\net7.0-windows\refint\projekt_isi.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.pdb
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.exe
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.deps.json
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.runtimeconfig.json
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.pdb
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\Google.Protobuf.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\K4os.Compression.LZ4.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\K4os.Hash.xxHash.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\MySql.Data.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\ZstdNet.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\comerr64.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\gssapi64.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\k5sprt64.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\krb5_64.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\krbcc64.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\SpotifyAPI.Web.dll
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.csproj.CopyComplete
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.genruntimeconfig.cache
+C:\Users\albert.rzad\Desktop\STUDIA\3 ROK 2 SEM\IntegracjaSystemow\ProjektRządRozwadowski\projekt\projekt\projekt_isi\obj\Debug\net7.0-windows\ref\projekt_isi.dll
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.exe
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.deps.json
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.runtimeconfig.json
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.dll
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\projekt_isi.pdb
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\Google.Protobuf.dll
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\MySql.Data.dll
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\ZstdNet.dll
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\comerr64.dll
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\gssapi64.dll
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\k5sprt64.dll
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\krb5_64.dll
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\krbcc64.dll
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\bin\Debug\net7.0-windows\SpotifyAPI.Web.dll
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.csproj.AssemblyReference.cache
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.Form1.resources
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.Show.resources
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.csproj.GenerateResource.cache
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.AssemblyInfoInputs.cache
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.AssemblyInfo.cs
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.csproj.CoreCompileInputs.cache
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.csproj.CopyComplete
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.dll
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\obj\Debug\net7.0-windows\refint\projekt_isi.dll
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.pdb
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\obj\Debug\net7.0-windows\projekt_isi.genruntimeconfig.cache
+C:\Users\Ernest\Desktop\projekty\Spotify_projekt\projekt\projekt\projekt_isi\obj\Debug\net7.0-windows\ref\projekt_isi.dll
